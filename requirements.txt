@@ -1,4 +1,6 @@
 streamlit
 groq
-SpeechRecognition
-pyaudio
+streamlit-mic-recorder
+openai-whisper
+ffmpeg-python
+torch
